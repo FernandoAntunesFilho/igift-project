@@ -1,5 +1,6 @@
 const providers = [
   {
+    id: '100',
     nomeEmpresa: 'Abreutur',
     produtoOfertado: 'Voucher de desconto',
     categoria: 'Turismo',
@@ -20,6 +21,7 @@ const providers = [
     }
   },
   {
+    id: '110',
     nomeEmpresa: 'Acqua Aroma',
     produtoOfertado: 'Sabonetes',
     categoria: 'Artigos do lar',
@@ -40,6 +42,7 @@ const providers = [
     }
   },
   {
+    id: '120',
     nomeEmpresa: 'Adcos',
     produtoOfertado: 'Shampoo',
     categoria: 'Perfumaria e cosméticos',
@@ -50,7 +53,7 @@ const providers = [
       logradouro: 'Rua Giselda Gisele Maciel Santos',
       numero: 18,
       cep: '13403-676',
-      cidade: 'Piracicaba',
+      cidade: 'Saltinho',
       estado: 'São Paulo',
     },
     contato: {
@@ -60,6 +63,7 @@ const providers = [
     }
   },
   {
+    id: '130',
     nomeEmpresa: 'Adidas',
     produtoOfertado: 'Meias',
     categoria: 'Artigos esportivos',
@@ -70,7 +74,7 @@ const providers = [
       logradouro: 'Rua José Lourenço da Silva',
       numero: 21,
       cep: '13403-673',
-      cidade: 'Piracicaba',
+      cidade: 'Saltinho',
       estado: 'São Paulo',
     },
     contato: {
@@ -80,6 +84,7 @@ const providers = [
     }
   },
   {
+    id: '140',
     nomeEmpresa: 'Fascar',
     produtoOfertado: 'Voucher de desconto',
     categoria: 'Calçados masculinos',
@@ -90,7 +95,7 @@ const providers = [
       logradouro: 'Rua Getulina',
       numero: 23,
       cep: '13432-545',
-      cidade: 'Piracicaba',
+      cidade: 'Americana',
       estado: 'São Paulo',
     },
     contato: {
@@ -100,6 +105,7 @@ const providers = [
     }
   },
   {
+    id: '150',
     nomeEmpresa: 'Fom',
     produtoOfertado: 'Voucher de desconto',
     categoria: 'Artigos do lar',
@@ -110,7 +116,7 @@ const providers = [
       logradouro: 'Rua Macaubal',
       numero: 25,
       cep: '13432-593',
-      cidade: 'Piracicaba',
+      cidade: 'Americana',
       estado: 'São Paulo',
     },
     contato: {
